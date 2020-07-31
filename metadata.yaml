@@ -1,0 +1,48 @@
+_repo: The-Natural-History-of-Pliny-Volume-6-of-6_62704
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Riley, Henry T. (Henry Thomas)
+    aliases:
+    - Riley, Henry Thomas
+    - Riley, H.T.
+    birthdate: 1816
+    deathdate: 1878
+    gutenberg_agent_id: '8085'
+    url: http://www.gutenberg.org/2009/agents/8085
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Thomas_Riley
+  - agent_name: Bostock, John
+    alias: Bostock, Joannes
+    birthdate: 1773
+    deathdate: 1846
+    gutenberg_agent_id: '49421'
+    url: http://www.gutenberg.org/2009/agents/49421
+    wikipedia: https://en.wikipedia.org/wiki/John_Bostock_(physician)
+creator:
+  author:
+    agent_name: Pliny, the Elder
+    aliases:
+    - Secundus, Caius Plinius
+    - Secundus, Gaius Plinius
+    - Elder, Pliny the
+    - Gaius Plinius Secundus
+    birthdate: 23
+    deathdate: 79
+    gutenberg_agent_id: '50041'
+    url: http://www.gutenberg.org/2009/agents/50041
+    wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Elder
+description: ''
+gutenberg_issued: '2020-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history -- Pre-Linnean works'
+- GITenberg
+title: The Natural History of Pliny, Volume 6 (of 6)
+url: http://www.gutenberg.org/ebooks/62704
